@@ -1,5 +1,3 @@
-import React from "react";
-import hero from "../assets/hero.jpg";
 import pancakeImage from "../assets/pancake.jpg";
 
 
