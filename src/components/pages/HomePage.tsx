@@ -56,7 +56,7 @@ const HomePage = () => {
 
         <div className="flex flex-col items-center justify-center gap-4 text-center">
           <span className="font-bold text-3xl tracking-tighter">
-            Order takeaway even faster!
+            Effortless meals, every time!
           </span>
           <span>
             Download the YumMenu App for faster ordering and personalised
