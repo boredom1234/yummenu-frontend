@@ -95,7 +95,7 @@ const UserProfile = ({
             name="addressLine"
             render={({ field }) => (
               <FormItem className="flex-1">
-                <FormLabel>Address Line 1</FormLabel>
+                <FormLabel>Address Line</FormLabel>
                 <FormControl>
                   <Input {...field} className="bg-white" />
                 </FormControl>
