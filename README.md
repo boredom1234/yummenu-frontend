@@ -1,5 +1,11 @@
 # YumMenu Frontend Application
 
+```
+For the test mode of the Stripe Payment use these details:
+Card Number: 4242 4242 4242 4242
+All the else details can be random.
+```
+
 ## Features
 
 - React.js setup with functional components and hooks
