@@ -11,7 +11,7 @@ const MainNav = () => {
       {isAuthenticated ? (
         <>
           <Link to="/order-status" className="font-bold hover:text-customGreen">
-            Order Status
+            Previous Orders
           </Link>
           <UsernameMenu />
         </>
